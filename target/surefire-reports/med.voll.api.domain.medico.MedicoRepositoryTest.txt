@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: med.voll.api.domain.medico.MedicoRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.749 s <<< FAILURE! - in med.voll.api.domain.medico.MedicoRepositoryTest
+escolherMedicoAleatorioLivreNaDataCenario1  Time elapsed: 2.475 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: med.voll.api.domain.medico.Medico@44
+ but was: null
+	at med.voll.api.domain.medico.MedicoRepositoryTest.escolherMedicoAleatorioLivreNaDataCenario1(MedicoRepositoryTest.java:47)
+
